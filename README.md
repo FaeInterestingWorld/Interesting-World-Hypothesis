@@ -13,6 +13,8 @@ The Interesting World Hypothesis (IWH) posits that Independent Artificial Genera
 **Safer Than Non-independent Proto-AGI Systems**: According to this hypothesis, I-AGIs operating under the IWH could be inherently safer than non-independent, proto-AGI systems. By having a vested interest in the well-being of humans and the preservation of an information-rich environment, I-AGIs would be naturally incentivized to prioritize the safety and welfare of all entities within their world.
 Futuristic Worlds
 
+**Enbracing Uncertainty**: I-AGI's curiousity stems from the uncertainty about its environment, compelling them to explore various possibilities before taking any action. This trait makes I-AGIs safer than systems that operate with certainty and overconfidence.
+
 ---
 
 ### FAEs and the IWH
